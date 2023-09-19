@@ -1,0 +1,11 @@
+{
+  "name": "find-my-turtle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ariolam/find-my-turtle",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
